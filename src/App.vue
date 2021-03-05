@@ -1,11 +1,11 @@
 <template>
   <div id="app">
     <div id="nav">
-      <div class="sm-12 md1-2">
+      <!-- <div class="sm-12 md1-2">
    <b-navbar  type="dark" variant="dark">
     <b-navbar-brand href="#"> <router-link to="/">photos</router-link></b-navbar-brand>
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
- <!-- Right aligned nav items -->
+ Right aligned nav items
       <b-navbar-nav class="ml-auto">
         <b-nav-form>
           <b-form-input size="sm" class="mr-sm-2" placeholder="Search"></b-form-input>
@@ -14,7 +14,7 @@
       </b-navbar-nav>
   </b-navbar>
 </div>
-      
+       -->
     </div>
     <router-view />
   </div>
